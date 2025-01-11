@@ -1,5 +1,7 @@
 ### Exercício Módulo 10 - Plugins jQuery
 
+CÓDIGO CORRIGIDO!
+
 ## Dicas
 
 - O carousel slick utiliza a ID do campo para atribuir funções.
